@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"updated",
+				"updatedTodo"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"ke",
+				"keypress\t.keypress()"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"get",
+				"getjson\t$.getjson()"
+			],
+			[
+				"joblis",
+				"job-list"
+			],
+			[
+				"expre",
+				"express.static"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"use",
+				"app.use([path,] function [, function...])"
+			],
+			[
+				"title",
+				"title\t<title>"
+			],
+			[
+				"todo",
+				"todoRoutes"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fade",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"c",
+				"click\t.click()"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"o",
+				"outline"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"f",
+				"f7f7f7"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"th",
+				"this\t$(this)"
+			],
+			[
+				"k",
+				"keypress\t.keypress()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"t",
+				"todos"
+			],
+			[
+				"da",
+				"data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/index.html",
+			"settings":
+			{
+				"buffer_size": 592,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app.css",
+			"settings":
+			{
+				"buffer_size": 1296,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/app.js",
+			"settings":
+			{
+				"buffer_size": 1496,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/routes",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/views"
+	],
+	"file_history":
+	[
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/index.js",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/project1/Web-Advanced-Course-Project/components/job.js",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/project1/Web-Advanced-Course-Project/index.js",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/project1/Web-Advanced-Course-Project/index.html",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/project1/Web-Advanced-Course-Project/components/job-list.js",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/project1/Web-Advanced-Course-Project/README.md",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/package.json",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/models/todo.js",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/helpers/todos.js",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/routes/todos.js",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/views/index.html",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/project1/Web-Advanced-Course-Project/styles.css",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/package-lock.json",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/models/index.js",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/newpost.html",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/posts.html",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/test.html",
+		"/C/Users/mitsa/Documents/Mayank Projects/awdb/todos_api/index.sublime-project",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/company_profile.html",
+		"/C/Users/mitsa/Documents/Mayank Projects/prodigi/job_details.html",
+		"/C/Users/mitsa/Documents/Mayank Stuff/js tuts/index.js",
+		"/C/Users/mitsa/Documents/Mayank Stuff/angular5/ng5/src/app/home/home.component.html",
+		"/C/Users/mitsa/Documents/Mayank Stuff/angular5/ng5/src/app/app.component.ts",
+		"/C/Users/mitsa/Documents/Mayank Stuff/angular5/ng5/src/app/app.component.html",
+		"/C/Users/mitsa/Documents/Mayank Stuff/angular5/ng5/src/app/app.module.ts",
+		"/C/Users/mitsa/Documents/Mayank Stuff/patatapClone/index.html",
+		"/C/Users/mitsa/Documents/Mayank Stuff/patatapClone/data.js",
+		"/C/Users/mitsa/Documents/Mayank Stuff/patatapClone/paper-full.js",
+		"/C/Users/mitsa/Documents/Mayank Stuff/patatapClone/README.md",
+		"/C/Users/mitsa/Documents/Mayank Stuff/patatapClone/css/style.css",
+		"/C/Users/mitsa/Documents/Mayank Stuff/todoList/assets/css/todos.css",
+		"/C/Users/mitsa/Documents/Mayank Stuff/todoList/assets/js/todos.js",
+		"/C/Users/mitsa/Documents/Mayank Stuff/todoList/index.html",
+		"/C/Users/mitsa/Documents/bootcamp-group-web-project-master/mayank_suchade/index.js",
+		"/C/Users/mitsa/Documents/bootcamp-group-web-project-master/mayank_suchade/style.css",
+		"/C/Users/mitsa/Documents/bootcamp-group-web-project-master/mayank_suchade/index.html",
+		"/C/Users/mitsa/Documents/bootcamp-group-web-project-master/css/card.css",
+		"/C/Users/mitsa/Documents/Mayank Stuff/udemy/hw/index.js",
+		"/C/Users/mitsa/Documents/bootcamp-group-web-project-master/index.html",
+		"/C/Users/mitsa/Documents/bootcamp-group-web-project-master/credits.html",
+		"/C/Users/mitsa/Documents/bootcamp-group-web-project-master/js/card.js",
+		"/C/Users/mitsa/Documents/Mayank Stuff/udemy/hw/index.html",
+		"/C/Users/mitsa/Documents/Mayank Stuff/udemy/jqueryex.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"express",
+			"}\n",
+			">\n",
+			"home",
+			"urls",
+			";\n",
+			"\");",
+			"CONNECTED",
+			"lib",
+			">\n",
+			"\t\n",
+			"\"></",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								511,
+								511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1296,
+								1296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 829.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1394,
+								1394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 866.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
